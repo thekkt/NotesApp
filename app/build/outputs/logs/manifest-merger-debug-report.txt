@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\user\AndroidStudioProjects\NotesApp\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\user\AndroidStudioProjects\NotesApp\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\user\AndroidStudioProjects\NotesApp\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\user\AndroidStudioProjects\NotesApp\app\src\main\AndroidManifest.xml:2:1-21:12
+ADDED from C:\Users\user\AndroidStudioProjects\NotesApp\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\user\AndroidStudioProjects\NotesApp\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\user\AndroidStudioProjects\NotesApp\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\user\AndroidStudioProjects\NotesApp\app\src\main\AndroidManifest.xml:2:1-20:12
 MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\user\.gradle\caches\transforms-2\files-2.1\700c7226d1dc56afc3822194ec043fe8\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.material:material:1.3.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\9687ea34c46388a4b530a2c7463f20c4\material-1.3.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\user\.gradle\caches\transforms-2\files-2.1\dd900a48a998a914b71ad69a9f59b058\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
@@ -46,20 +46,20 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.print:print:1.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\5e0565da7ae761d06be9a8901af1fe2f\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\0b3ac64011a707fe9177bf405b100394\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\87b98b03958315e5126ae01f38b757b9\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\user\AndroidStudioProjects\NotesApp\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\user\AndroidStudioProjects\NotesApp\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\user\AndroidStudioProjects\NotesApp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\user\AndroidStudioProjects\NotesApp\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\user\AndroidStudioProjects\NotesApp\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\user\AndroidStudioProjects\NotesApp\app\src\main\AndroidManifest.xml:2:1-20:12
 	package
 		ADDED from C:\Users\user\AndroidStudioProjects\NotesApp\app\src\main\AndroidManifest.xml:3:5-32
 		INJECTED from C:\Users\user\AndroidStudioProjects\NotesApp\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\user\AndroidStudioProjects\NotesApp\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\user\AndroidStudioProjects\NotesApp\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\user\AndroidStudioProjects\NotesApp\app\src\main\AndroidManifest.xml:2:1-21:12
+		ADDED from C:\Users\user\AndroidStudioProjects\NotesApp\app\src\main\AndroidManifest.xml:2:1-20:12
 		INJECTED from C:\Users\user\AndroidStudioProjects\NotesApp\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\user\AndroidStudioProjects\NotesApp\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\user\AndroidStudioProjects\NotesApp\app\src\main\AndroidManifest.xml:2:1-21:12
+		ADDED from C:\Users\user\AndroidStudioProjects\NotesApp\app\src\main\AndroidManifest.xml:2:1-20:12
 		INJECTED from C:\Users\user\AndroidStudioProjects\NotesApp\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\user\AndroidStudioProjects\NotesApp\app\src\main\AndroidManifest.xml:2:11-69

@@ -34,11 +34,11 @@ class MainActivity : AppCompatActivity() {
 
         navigationView = findViewById(R.id.navigation)
 
-        val sharedPreferences = getSharedPreferences("list", Context.MODE_PRIVATE)
+        val sharedPreferences = getSharedPreferences("notesList", Context.MODE_PRIVATE)
 
         if (sharedPreferences?.getString("list", null) != null) {
             val listType = object : TypeToken<MutableList<Notes>>() {}.type
-            val json = sharedPreferences.getString("list", null)
+            val json = sharedPreferences.getString("notesList", null)
             val userNotes: MutableList<Notes> = gson.fromJson(json, listType)
             Utils.notesList = userNotes
         }

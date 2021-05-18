@@ -1795,7 +1795,6 @@ int id btnDelete 0x7f080058
 int id btnEdit 0x7f080059
 int id btnPreservation 0x7f08005a
 int id button 0x7f08005b
-int id button2 0x7f08005c
 int id buttonPanel 0x7f08005d
 int id cache_measures 0x7f08005e
 int id cancel_action 0x7f08005f
@@ -1865,11 +1864,11 @@ int id dropdown_menu 0x7f08009e
 int id easeIn 0x7f08009f
 int id easeInOut 0x7f0800a0
 int id easeOut 0x7f0800a1
+int id editDate 0x7f0801c1
 int id editDescription 0x7f0800a2
 int id editTextTextPersonName 0x7f0800a3
 int id editTextTextPersonName2 0x7f0800a4
 int id editTextTextPersonName3 0x7f0800a5
-int id editTextTime 0x7f0800a6
 int id editTitle 0x7f0800a7
 int id edit_query 0x7f0800a8
 int id elastic 0x7f0800a9
@@ -2030,6 +2029,7 @@ int id right_icon 0x7f080143
 int id right_side 0x7f080144
 int id rounded 0x7f080145
 int id row_index_key 0x7f080146
+int id saveEditDate 0x7f0801c2
 int id save_non_transition_alpha 0x7f080147
 int id save_overlay_view 0x7f080148
 int id sawtooth 0x7f080149

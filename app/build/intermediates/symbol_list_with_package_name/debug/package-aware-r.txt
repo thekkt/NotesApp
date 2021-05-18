@@ -1796,7 +1796,6 @@ id btnDelete
 id btnEdit
 id btnPreservation
 id button
-id button2
 id buttonPanel
 id cache_measures
 id cancel_action
@@ -1866,11 +1865,11 @@ id dropdown_menu
 id easeIn
 id easeInOut
 id easeOut
+id editDate
 id editDescription
 id editTextTextPersonName
 id editTextTextPersonName2
 id editTextTextPersonName3
-id editTextTime
 id editTitle
 id edit_query
 id elastic
@@ -2031,6 +2030,7 @@ id right_icon
 id right_side
 id rounded
 id row_index_key
+id saveEditDate
 id save_non_transition_alpha
 id save_overlay_view
 id sawtooth
